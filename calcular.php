@@ -13,7 +13,7 @@ $Resultado2=$Cantidad2*$Precio2;
 $Resultado3=$Cantidad3*$Precio3;
 $Iva="16%";
 $Subtotal=$Resultado3+$Resultado2+$Resultado1;
-$Total=$Subtotal;
+$Total=$Subtotal*1.16;
 ?>
 <html>
     <body>
